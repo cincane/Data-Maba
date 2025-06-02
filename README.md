@@ -1,4 +1,4 @@
-Penjelsan Program Data Mahasiswa baru dengan OOP Python	
+Penjelasan Program Data Mahasiswa baru dengan OOP Python	
 
 Berikan sebuah command untuk menjalankan programnya (add, show, view, and exit)
 
